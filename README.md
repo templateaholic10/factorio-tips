@@ -1,2 +1,2 @@
 # factorio-tips
-Factorioに関するTips
+Factorioに関する個人的なTips
